@@ -1,0 +1,70 @@
+{
+	"auto_complete": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/iPlastic (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"findreplace_small": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".rsync_cache",
+		"cache/*"
+	],
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"cache/*"
+	],
+	"php_namespace.stop_folders":
+	[
+		"src",
+		"app",
+		"vendor"
+	],
+	"reveal-on-activate": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"sidebar_small": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}

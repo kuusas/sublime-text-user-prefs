@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"JSON Reindent",
+		"LESS",
+		"PHP Companion",
+		"PhpDoc",
+		"PhpNamespace",
+		"PHPUnit",
+		"Predawn",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Twig"
+	]
+}
