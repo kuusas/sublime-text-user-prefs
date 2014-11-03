@@ -12,6 +12,7 @@
 		"PhpNamespace",
 		"PHPUnit",
 		"Predawn",
+		"Schemr",
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
@@ -20,6 +21,7 @@
 		"SublimeLinter-phpcs",
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
+		"Themr",
 		"Twig"
 	]
 }
